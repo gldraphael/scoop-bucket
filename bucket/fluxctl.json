@@ -1,5 +1,5 @@
 {
-  "version": "1.15.0", 
-  "url": "https://github.com/fluxcd/flux/releases/download/1.15.0/fluxctl_windows_amd64#/fluxctl.exe", 
+  "version": "1.17.0",
+  "url": "https://github.com/fluxcd/flux/releases/download/1.17.0/fluxctl_windows_amd64#/fluxctl.exe",
   "bin": "fluxctl.exe"
 }
