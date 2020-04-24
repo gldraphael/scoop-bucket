@@ -15,6 +15,5 @@ scoop install fluxctl
 | App       | Version |                                                                           Manifest  |
 |-----------|:-------:|------------------------------------------------------------------------------------:|
 | azcopy    |  10.3.1 | [Link](https://github.com/gldraphael/scoop-bucket/blob/master/bucket/azcopy.json)   |
-| fluxctl   |  1.17.0 | [Link](https://github.com/gldraphael/scoop-bucket/blob/master/bucket/fluxctl.json)  |
 | inlets    |  2.6.3  | [Link](https://github.com/gldraphael/scoop-bucket/blob/master/bucket/inlets.json)   |
 | inletsctl |  0.3.4  | [Link](https://github.com/gldraphael/scoop-bucket/blob/master/bucket/inletsctl.json)|
