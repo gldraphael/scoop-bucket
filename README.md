@@ -17,3 +17,4 @@ scoop install fluxctl
 | azcopy    |  10.3.1 | [Link](https://github.com/gldraphael/scoop-bucket/blob/master/bucket/azcopy.json)   |
 | inlets    |  2.6.3  | [Link](https://github.com/gldraphael/scoop-bucket/blob/master/bucket/inlets.json)   |
 | inletsctl |  0.3.4  | [Link](https://github.com/gldraphael/scoop-bucket/blob/master/bucket/inletsctl.json)|
+| k3sup     |  0.9.2  | [Link](https://github.com/gldraphael/scoop-bucket/blob/master/bucket/k3sup.json)    |
