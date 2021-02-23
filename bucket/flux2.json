@@ -10,7 +10,6 @@
     }
   },
   "bin": "flux.exe",
-  "extract_dir": "flux-windows-amd64",
   "checkver": {
     "github": "https://github.com/fluxcd/flux2"
   },
